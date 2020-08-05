@@ -30,9 +30,41 @@
                     <span class="quantity">0</span> db / <span class="price">0</span> ft
                 </div>
             </div>
-
         </div>
-        <nav></nav>
+
+        <nav>
+            <ul>
+                <li><a href="#">Hogyan vásároljunk? ÁSZF</a></li>
+                <li><a href="#">Szállítási információk</a></li>
+                <li><a href="#">Kapcsolat</a></li>
+                <li><a href="#">Cégeknek</a></li>
+                <li><a href="#">Egyedi rendszámtáblák</a></li>
+            </ul>
+            <div class="nav-close-btn">X</div>
+        </nav>
+
+        <div class="menu-buttons-wrap">
+            <div class="menu-buttons">
+                <div class="nav-btn menu-btn">
+                    <div class="burger-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                    <div class="nav-btn-text">menü</div>
+                </div>
+
+                <div class="product-btn menu-btn">
+                    <div class="burger-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                    <div class="product-btn-text">termékek</div>
+                </div>
+            </div>
+        </div>
+
     </header>
 </section>
     
